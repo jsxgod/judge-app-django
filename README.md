@@ -1,4 +1,5 @@
 # judge-app-django
 Mobile application for a judge of a car race competition.
 
-Django backend part
+# Front end (Mobile written in Flutter)
+https://github.com/jsxgod/judge-app-flutter
